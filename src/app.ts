@@ -10,7 +10,7 @@ app.use(express.json())
 app.use(express.urlencoded())
 
 app.get('/', (req: Request, res: any) => {
-  res.send('Woking fine')
+  res.send('Woking fineaa')
 })
 
 export default app
