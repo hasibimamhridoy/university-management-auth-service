@@ -1,9 +1,10 @@
-import { IUser } from './users.interface'
-import { User } from './users.model'
-import config from '../../config'
-import { genaretedUserId } from './users.utils'
+import { IUser } from './user.interface'
+import { User } from './user.model'
+import config from '../../../config/index'
+import { genaretedUserId } from './user.utils'
+import ApiError from '../../../error/ApiError'
 
-export const createUserService = async (user: IUser): Promise<IUser | null> => {
+const createUserService = async (user: IUser): Promise<IUser | null> => {
   /**
    *  ------------auto genareted incrimental id
    */
@@ -26,8 +27,12 @@ export const createUserService = async (user: IUser): Promise<IUser | null> => {
    */
   const createdUser = await User.create(user)
   if (!createdUser) {
-    throw new Error('failed to create user')
+    throw new ApiError(400, 'failed to create user')
   }
 
   return createdUser
+}
+
+export const UserService = {
+  createUserService
 }

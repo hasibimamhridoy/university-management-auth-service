@@ -1,6 +1,6 @@
 {
-    "editor.codeActionsOnSave" : {
-        "source.fixALl.eslint" : true,
-        "source.organizeImports" : true
-    }
+  "editor.codeActionsOnSave": {
+    "source.fixALl.eslint": true,
+    "source.organizeImports": true
+  }
 }

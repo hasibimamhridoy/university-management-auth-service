@@ -1,4 +1,4 @@
-import { User } from './users.model'
+import { User } from './user.model'
 
 export const findLastUserId = async () => {
   /**

@@ -1,0 +1,94 @@
+
+    Date : Sun Oct 22 20233:2:37 
+    Label: Success!
+    Lavel: info 
+    Message : Database connection established
+    
+
+    Date : Sun Oct 22 20233:2:37 
+    Label: Success!
+    Lavel: info 
+    Message : Example app listening on port : 5000
+    
+
+    Date : Sun Oct 22 20233:2:53 
+    Label: Success!
+    Lavel: error 
+    Message : unhandledRejection -[
+  {
+    "code": "invalid_type",
+    "expected": "string",
+    "received": "undefined",
+    "path": [
+      "body",
+      "role"
+    ],
+    "message": "role is required"
+  }
+]
+    
+
+    Date : Sun Oct 22 20233:3:42 
+    Label: Success!
+    Lavel: info 
+    Message : Database connection established
+    
+
+    Date : Sun Oct 22 20233:3:42 
+    Label: Success!
+    Lavel: info 
+    Message : Example app listening on port : 5000
+    
+
+    Date : Sun Oct 22 20233:3:47 
+    Label: Success!
+    Lavel: error 
+    Message : unhandledRejection -[
+  {
+    "code": "invalid_type",
+    "expected": "string",
+    "received": "undefined",
+    "path": [
+      "body",
+      "role"
+    ],
+    "message": "role is required"
+  }
+]
+    
+
+    Date : Sun Oct 22 20233:4:58 
+    Label: Success!
+    Lavel: info 
+    Message : Database connection established
+    
+
+    Date : Sun Oct 22 20233:4:58 
+    Label: Success!
+    Lavel: info 
+    Message : Example app listening on port : 5000
+    
+
+    Date : Sun Oct 22 20233:9:42 
+    Label: Success!
+    Lavel: info 
+    Message : Database connection established
+    
+
+    Date : Sun Oct 22 20233:9:42 
+    Label: Success!
+    Lavel: info 
+    Message : Example app listening on port : 5000
+    
+
+    Date : Sun Oct 22 20233:10:40 
+    Label: Success!
+    Lavel: info 
+    Message : Database connection established
+    
+
+    Date : Sun Oct 22 20233:10:40 
+    Label: Success!
+    Lavel: info 
+    Message : Example app listening on port : 5000
+    

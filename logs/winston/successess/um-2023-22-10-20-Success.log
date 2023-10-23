@@ -1,0 +1,161 @@
+
+    Date : Sun Oct 22 202320:8:42 
+    Label: Success!
+    Lavel: info 
+    Message : Database connection established
+    
+
+    Date : Sun Oct 22 202320:8:42 
+    Label: Success!
+    Lavel: info 
+    Message : Example app listening on port : 5000
+    
+
+    Date : Sun Oct 22 202320:8:56 
+    Label: Success!
+    Lavel: error 
+    Message : unhandledRejection -[
+  {
+    "code": "invalid_type",
+    "expected": "string",
+    "received": "undefined",
+    "path": [
+      "body",
+      "role"
+    ],
+    "message": "role is required"
+  }
+]
+    
+
+    Date : Sun Oct 22 202320:9:37 
+    Label: Success!
+    Lavel: info 
+    Message : Database connection established
+    
+
+    Date : Sun Oct 22 202320:9:37 
+    Label: Success!
+    Lavel: info 
+    Message : Example app listening on port : 5000
+    
+
+    Date : Sun Oct 22 202320:10:3 
+    Label: Success!
+    Lavel: info 
+    Message : Database connection established
+    
+
+    Date : Sun Oct 22 202320:10:3 
+    Label: Success!
+    Lavel: info 
+    Message : Example app listening on port : 5000
+    
+
+    Date : Sun Oct 22 202320:16:0 
+    Label: Success!
+    Lavel: info 
+    Message : Database connection established
+    
+
+    Date : Sun Oct 22 202320:16:0 
+    Label: Success!
+    Lavel: info 
+    Message : Example app listening on port : 5000
+    
+
+    Date : Sun Oct 22 202320:32:26 
+    Label: Success!
+    Lavel: info 
+    Message : Database connection established
+    
+
+    Date : Sun Oct 22 202320:32:26 
+    Label: Success!
+    Lavel: info 
+    Message : Example app listening on port : 5000
+    
+
+    Date : Sun Oct 22 202320:33:1 
+    Label: Success!
+    Lavel: info 
+    Message : Database connection established
+    
+
+    Date : Sun Oct 22 202320:33:1 
+    Label: Success!
+    Lavel: info 
+    Message : Example app listening on port : 5000
+    
+
+    Date : Sun Oct 22 202320:33:5 
+    Label: Success!
+    Lavel: info 
+    Message : Database connection established
+    
+
+    Date : Sun Oct 22 202320:33:5 
+    Label: Success!
+    Lavel: info 
+    Message : Example app listening on port : 5000
+    
+
+    Date : Sun Oct 22 202320:33:23 
+    Label: Success!
+    Lavel: info 
+    Message : Database connection established
+    
+
+    Date : Sun Oct 22 202320:33:23 
+    Label: Success!
+    Lavel: info 
+    Message : Example app listening on port : 5000
+    
+
+    Date : Sun Oct 22 202320:33:35 
+    Label: Success!
+    Lavel: info 
+    Message : Database connection established
+    
+
+    Date : Sun Oct 22 202320:33:35 
+    Label: Success!
+    Lavel: info 
+    Message : Example app listening on port : 5000
+    
+
+    Date : Sun Oct 22 202320:33:50 
+    Label: Success!
+    Lavel: info 
+    Message : Database connection established
+    
+
+    Date : Sun Oct 22 202320:33:50 
+    Label: Success!
+    Lavel: info 
+    Message : Example app listening on port : 5000
+    
+
+    Date : Sun Oct 22 202320:34:43 
+    Label: Success!
+    Lavel: info 
+    Message : Database connection established
+    
+
+    Date : Sun Oct 22 202320:34:43 
+    Label: Success!
+    Lavel: info 
+    Message : Example app listening on port : 5000
+    
+
+    Date : Sun Oct 22 202320:34:59 
+    Label: Success!
+    Lavel: info 
+    Message : Database connection established
+    
+
+    Date : Sun Oct 22 202320:34:59 
+    Label: Success!
+    Lavel: info 
+    Message : Example app listening on port : 5000
+    
