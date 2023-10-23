@@ -39,6 +39,11 @@
             "date": 1698055872623,
             "name": "D:\\Programming Hero 2023\\1.1.1. Level 2.0 PH\\University Management Backend\\university-management-auth-service\\logs\\winston\\errors\\um-2023-23-10-16-Error.log",
             "hash": "d91f3e6bc020cce950b44f75b7dea98b8f9c74c7c2fc5a7b356e2f64cf57e12e"
+        },
+        {
+            "date": 1698059927446,
+            "name": "D:\\Programming Hero 2023\\1.1.1. Level 2.0 PH\\University Management Backend\\university-management-auth-service\\logs\\winston\\errors\\um-2023-23-10-17-Error.log",
+            "hash": "fb08122fddfaa232fd1734207ba1398dcc16a4ccc75a24d18512dd9f838336e8"
         }
     ],
     "hashType": "sha256"

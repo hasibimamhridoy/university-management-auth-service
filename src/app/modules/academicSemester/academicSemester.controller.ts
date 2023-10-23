@@ -1,22 +1,27 @@
-import { RequestHandler } from 'express'
+import { NextFunction, Request, Response } from 'express'
 
 import { IAcademicSemester } from './academicSemester.interface'
 import { AcademicSemesterService } from './academicSemester.services'
+import catchAsync from '../../../shared/catchAsync'
+import sendResponse from '../../../shared/sendResponse'
+import httpStatus from 'http-status'
 
-const createAcademicSemesterController: RequestHandler = async (req, res, next) => {
-  try {
+const createAcademicSemesterController = catchAsync(
+  async (req: Request, res: Response, next: NextFunction) => {
     const { ...academicSemesterData }: IAcademicSemester = req.body
     const result = await AcademicSemesterService.createSemesterService(academicSemesterData)
-    res.status(200).send({
+
+    next()
+
+    const responseData = {
+      status: httpStatus.OK,
       success: true,
       message: 'Academic Semester created successfully',
       data: result
-    })
-  } catch (error) {
-    console.log(error)
-    next(error)
+    }
+    sendResponse(res, responseData)
   }
-}
+)
 
 export const AcademicSemesterController = {
   createAcademicSemesterController
