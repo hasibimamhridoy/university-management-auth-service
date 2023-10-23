@@ -44,6 +44,16 @@
             "date": 1698059927446,
             "name": "D:\\Programming Hero 2023\\1.1.1. Level 2.0 PH\\University Management Backend\\university-management-auth-service\\logs\\winston\\errors\\um-2023-23-10-17-Error.log",
             "hash": "fb08122fddfaa232fd1734207ba1398dcc16a4ccc75a24d18512dd9f838336e8"
+        },
+        {
+            "date": 1698062410439,
+            "name": "D:\\Programming Hero 2023\\1.1.1. Level 2.0 PH\\University Management Backend\\university-management-auth-service\\logs\\winston\\errors\\um-2023-23-10-18-Error.log",
+            "hash": "5224629e3e6474e4d1b52d2ef76094713a0fdb02305914d0e9231b82faca5c0c"
+        },
+        {
+            "date": 1698066040232,
+            "name": "D:\\Programming Hero 2023\\1.1.1. Level 2.0 PH\\University Management Backend\\university-management-auth-service\\logs\\winston\\errors\\um-2023-23-10-19-Error.log",
+            "hash": "f6197825e8ec633c8999f8e91244c9bfd2726bbaeec1443cd192dabab374587d"
         }
     ],
     "hashType": "sha256"

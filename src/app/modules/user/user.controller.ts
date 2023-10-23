@@ -8,7 +8,6 @@ import httpStatus from 'http-status'
 const createUserController = catchAsync(async (req: Request, res: Response, next: NextFunction) => {
   const user: IUser = req.body
   const result = await UserService.createUserService(user)
-  next()
 
   const responseData = {
     status: httpStatus.OK,
@@ -17,6 +16,7 @@ const createUserController = catchAsync(async (req: Request, res: Response, next
     data: result
   }
   sendResponse(res, responseData)
+  next()
 })
 
 export const UserController = {

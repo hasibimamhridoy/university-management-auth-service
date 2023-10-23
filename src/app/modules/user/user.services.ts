@@ -26,6 +26,7 @@ const createUserService = async (user: IUser): Promise<IUser | null> => {
    * -------------create the user password
    */
   const createdUser = await User.create(user)
+
   if (!createdUser) {
     throw new ApiError(400, 'failed to create user')
   }

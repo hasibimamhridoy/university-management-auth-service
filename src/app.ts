@@ -5,6 +5,7 @@ import errorHandler from './app/middleware/errorHandler'
 import { routeErrorHandle } from './app/middleware/404RouteErrorHandle'
 import { UserRoutes } from './app/modules/user/user.route'
 import { AcademicSemesterRoutes } from './app/modules/academicSemester/academicSemester.route'
+import ApiError from './error/ApiError'
 // import ApiError from './error/ApiError'
 
 const app: Application = express()
@@ -15,14 +16,12 @@ app.use(express.urlencoded())
 app.use('/api/v1/users', UserRoutes.userRouter)
 app.use('/api/v1/academic-semester', AcademicSemesterRoutes.semesterRouter)
 
-// app.get('/', async (req, res ,next) => {
+app.get('/', async (req, res, next) => {
+  // Promise.reject(new Error("Server unhandled error"))
+  // console.log(a);
 
-//     // Promise.reject(new Error("Server unhandled error"))
-//     // console.log(a);
-
-//     throw new Error("Testing error logger")
-
-// })
+  next(new ApiError(404, 'Testing error logger'))
+})
 
 //global
 app.use(errorHandler)
