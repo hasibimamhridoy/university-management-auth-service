@@ -34,6 +34,11 @@
             "date": 1698053937132,
             "name": "D:\\Programming Hero 2023\\1.1.1. Level 2.0 PH\\University Management Backend\\university-management-auth-service\\logs\\winston\\successess\\um-2023-23-10-15-Success.log",
             "hash": "363152e30ad4a8e65e74d35b3ea1c0d252c6983629535fc210289b5ef7259448"
+        },
+        {
+            "date": 1698055872620,
+            "name": "D:\\Programming Hero 2023\\1.1.1. Level 2.0 PH\\University Management Backend\\university-management-auth-service\\logs\\winston\\successess\\um-2023-23-10-16-Success.log",
+            "hash": "90198b56e49aafe1c65b34da910f50ca81be5477067caeffc5ba9614dba629b9"
         }
     ],
     "hashType": "sha256"
