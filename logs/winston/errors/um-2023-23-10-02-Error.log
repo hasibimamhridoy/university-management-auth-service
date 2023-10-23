@@ -1,0 +1,204 @@
+
+    Date : Mon Oct 23 20232:16:31 
+    Label: Error!
+    Lavel: error 
+    Message : [
+  {
+    "code": "invalid_type",
+    "expected": "string",
+    "received": "undefined",
+    "path": [
+      "body",
+      "role"
+    ],
+    "message": "role is required"
+  }
+]
+    
+
+    Date : Mon Oct 23 20232:17:58 
+    Label: Error!
+    Lavel: error 
+    Message : [
+  {
+    "code": "invalid_type",
+    "expected": "string",
+    "received": "undefined",
+    "path": [
+      "body",
+      "role"
+    ],
+    "message": "role is required"
+  }
+]
+    
+
+    Date : Mon Oct 23 20232:21:44 
+    Label: Error!
+    Lavel: error 
+    Message : [
+  {
+    "code": "invalid_type",
+    "expected": "string",
+    "received": "undefined",
+    "path": [
+      "body",
+      "role"
+    ],
+    "message": "role is required"
+  }
+]
+    
+
+    Date : Mon Oct 23 20232:26:6 
+    Label: Error!
+    Lavel: error 
+    Message : [
+  {
+    "code": "invalid_type",
+    "expected": "string",
+    "received": "undefined",
+    "path": [
+      "body",
+      "role"
+    ],
+    "message": "role is required"
+  }
+]
+    
+
+    Date : Mon Oct 23 20232:27:40 
+    Label: Error!
+    Lavel: error 
+    Message : [
+  {
+    "code": "invalid_type",
+    "expected": "string",
+    "received": "undefined",
+    "path": [
+      "body",
+      "role"
+    ],
+    "message": "role is required"
+  }
+]
+    
+
+    Date : Mon Oct 23 20232:30:27 
+    Label: Error!
+    Lavel: error 
+    Message : [
+  {
+    "code": "invalid_type",
+    "expected": "string",
+    "received": "undefined",
+    "path": [
+      "body",
+      "role"
+    ],
+    "message": "role is required - Ami Zod"
+  }
+]
+    
+
+    Date : Mon Oct 23 20232:32:46 
+    Label: Error!
+    Lavel: error 
+    Message : [
+  {
+    "code": "invalid_type",
+    "expected": "string",
+    "received": "undefined",
+    "path": [
+      "body",
+      "role"
+    ],
+    "message": "role is required - Ami Zod"
+  }
+]
+    
+
+    Date : Mon Oct 23 20232:33:14 
+    Label: Error!
+    Lavel: error 
+    Message : [
+  {
+    "code": "invalid_type",
+    "expected": "string",
+    "received": "undefined",
+    "path": [
+      "body",
+      "role"
+    ],
+    "message": "role is required - Ami Zod"
+  }
+]
+    
+
+    Date : Mon Oct 23 20232:45:11 
+    Label: Error!
+    Lavel: error 
+    Message : [
+  {
+    "code": "invalid_type",
+    "expected": "string",
+    "received": "undefined",
+    "path": [
+      "body",
+      "role"
+    ],
+    "message": "role is required - Ami Zod"
+  }
+]
+    
+
+    Date : Mon Oct 23 20232:45:51 
+    Label: Error!
+    Lavel: error 
+    Message : [
+  {
+    "code": "invalid_type",
+    "expected": "string",
+    "received": "undefined",
+    "path": [
+      "body",
+      "role"
+    ],
+    "message": "role is required - Ami Zod"
+  }
+]
+    
+
+    Date : Mon Oct 23 20232:47:18 
+    Label: Error!
+    Lavel: error 
+    Message : [
+  {
+    "code": "invalid_type",
+    "expected": "string",
+    "received": "undefined",
+    "path": [
+      "body",
+      "role"
+    ],
+    "message": "role is required - Ami Zod"
+  }
+]
+    
+
+    Date : Mon Oct 23 20232:50:3 
+    Label: Error!
+    Lavel: error 
+    Message : [
+  {
+    "code": "invalid_type",
+    "expected": "string",
+    "received": "undefined",
+    "path": [
+      "body",
+      "role"
+    ],
+    "message": "role is required - Ami Zod"
+  }
+]
+    

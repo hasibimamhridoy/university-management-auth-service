@@ -1,0 +1,40 @@
+{
+    "keep": {
+        "days": true,
+        "amount": 14
+    },
+    "auditLog": "D:\\Programming Hero 2023\\1.1.1. Level 2.0 PH\\University Management Backend\\university-management-auth-service\\logs\\winston\\successess\\.e1a40d725f190d3d3d3c9f09fdb6667cc66d6eca-audit.json",
+    "files": [
+        {
+            "date": 1697920516264,
+            "name": "D:\\Programming Hero 2023\\1.1.1. Level 2.0 PH\\University Management Backend\\university-management-auth-service\\logs\\winston\\successess\\um-2023-22-10-02-Success.log",
+            "hash": "d3c3cf337a4994205f728673a711e2d1331ac89e4cc6b44587ddecc51615e559"
+        },
+        {
+            "date": 1697922154105,
+            "name": "D:\\Programming Hero 2023\\1.1.1. Level 2.0 PH\\University Management Backend\\university-management-auth-service\\logs\\winston\\successess\\um-2023-22-10-03-Success.log",
+            "hash": "d5717d50ee95353f6ed9fb19d266cf0d502d7ff45ab2a39d176389155b609187"
+        },
+        {
+            "date": 1697983719643,
+            "name": "D:\\Programming Hero 2023\\1.1.1. Level 2.0 PH\\University Management Backend\\university-management-auth-service\\logs\\winston\\successess\\um-2023-22-10-20-Success.log",
+            "hash": "4bcedc60e4ad147e02b2cc08390a89b4c2ac92d0dd15617975a0c7774fae9cb5"
+        },
+        {
+            "date": 1698005684351,
+            "name": "D:\\Programming Hero 2023\\1.1.1. Level 2.0 PH\\University Management Backend\\university-management-auth-service\\logs\\winston\\successess\\um-2023-23-10-02-Success.log",
+            "hash": "0b9812f65c875312c051fad12cd056d30b0dfb214fe75c0a9243e652983af64a"
+        },
+        {
+            "date": 1698009465262,
+            "name": "D:\\Programming Hero 2023\\1.1.1. Level 2.0 PH\\University Management Backend\\university-management-auth-service\\logs\\winston\\successess\\um-2023-23-10-03-Success.log",
+            "hash": "61f91d6bef1e87e1d93f3465bfc06bfb440b46bfbc51a3091a5c0d14312921d4"
+        },
+        {
+            "date": 1698053937132,
+            "name": "D:\\Programming Hero 2023\\1.1.1. Level 2.0 PH\\University Management Backend\\university-management-auth-service\\logs\\winston\\successess\\um-2023-23-10-15-Success.log",
+            "hash": "363152e30ad4a8e65e74d35b3ea1c0d252c6983629535fc210289b5ef7259448"
+        }
+    ],
+    "hashType": "sha256"
+}

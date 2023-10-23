@@ -1,18 +1,33 @@
-import express, { Application, Request, Response } from 'express'
+import express, { Application } from 'express'
 
 import cors from 'cors'
-import { userRouter } from './modules/users/users.route'
+import errorHandler from './app/middleware/errorHandler'
+import { routeErrorHandle } from './app/middleware/404RouteErrorHandle'
+import { UserRoutes } from './app/modules/user/user.route'
+import { AcademicSemesterRoutes } from './app/modules/academicSemester/academicSemester.route'
+// import ApiError from './error/ApiError'
 
 const app: Application = express()
 
 app.use(cors())
 app.use(express.json())
 app.use(express.urlencoded())
+app.use('/api/v1/users', UserRoutes.userRouter)
+app.use('/api/v1/academic-semester', AcademicSemesterRoutes.semesterRouter)
 
-app.use('/api/v1/users', userRouter)
+// app.get('/', async (req, res ,next) => {
 
-app.get('/', async (req: Request, res: Response) => {
-  res.send('Woking fine')
-})
+//     // Promise.reject(new Error("Server unhandled error"))
+//     // console.log(a);
+
+//     throw new Error("Testing error logger")
+
+// })
+
+//global
+app.use(errorHandler)
+
+// 404 Route Handler
+app.use(routeErrorHandle)
 
 export default app

@@ -1,0 +1,40 @@
+{
+    "keep": {
+        "days": true,
+        "amount": 14
+    },
+    "auditLog": "D:\\Programming Hero 2023\\1.1.1. Level 2.0 PH\\University Management Backend\\university-management-auth-service\\logs\\winston\\errors\\.6d7ab4bde5175e260fec2e7921d8835755d50e12-audit.json",
+    "files": [
+        {
+            "date": 1697920516268,
+            "name": "D:\\Programming Hero 2023\\1.1.1. Level 2.0 PH\\University Management Backend\\university-management-auth-service\\logs\\winston\\errors\\um-2023-22-10-02-Error.log",
+            "hash": "75d6f48c2ba69ddbcdb1ed471b7cc3fe72979e51e2f9aa75c8964c5b47ec025f"
+        },
+        {
+            "date": 1697922154109,
+            "name": "D:\\Programming Hero 2023\\1.1.1. Level 2.0 PH\\University Management Backend\\university-management-auth-service\\logs\\winston\\errors\\um-2023-22-10-03-Error.log",
+            "hash": "f97e56c0f4f97d067cb7ff73e512b92d9a27527d39df45856b803294a8c2eb33"
+        },
+        {
+            "date": 1697983719648,
+            "name": "D:\\Programming Hero 2023\\1.1.1. Level 2.0 PH\\University Management Backend\\university-management-auth-service\\logs\\winston\\errors\\um-2023-22-10-20-Error.log",
+            "hash": "e23c1d0e79683a4d16949a917358e5768dcc57bc413f92609d64b4eaa68d8610"
+        },
+        {
+            "date": 1698005684355,
+            "name": "D:\\Programming Hero 2023\\1.1.1. Level 2.0 PH\\University Management Backend\\university-management-auth-service\\logs\\winston\\errors\\um-2023-23-10-02-Error.log",
+            "hash": "e09c21f3da7052d9105a519ddd3d2f43b36d0c610e6950cf06b50bfc797dac07"
+        },
+        {
+            "date": 1698009465267,
+            "name": "D:\\Programming Hero 2023\\1.1.1. Level 2.0 PH\\University Management Backend\\university-management-auth-service\\logs\\winston\\errors\\um-2023-23-10-03-Error.log",
+            "hash": "ad1fd0acb89ef31aed0eca8984ef470c3e0771a9e5b0afe11956a6f790ebf06e"
+        },
+        {
+            "date": 1698053937135,
+            "name": "D:\\Programming Hero 2023\\1.1.1. Level 2.0 PH\\University Management Backend\\university-management-auth-service\\logs\\winston\\errors\\um-2023-23-10-15-Error.log",
+            "hash": "63b5bdbe155adbd4b565bc2aa868b8c0a6b8ea7f56ab0ed440b086a03474f7d5"
+        }
+    ],
+    "hashType": "sha256"
+}

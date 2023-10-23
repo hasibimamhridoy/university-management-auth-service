@@ -1,0 +1,18 @@
+
+    Date : Mon Oct 23 202315:42:2 
+    Label: Error!
+    Lavel: error 
+    Message : Failed to connect database: MongoParseError: Invalid scheme, expected connection string to start with "mongodb://" or "mongodb+srv://"
+    
+
+    Date : Mon Oct 23 202315:43:25 
+    Label: Error!
+    Lavel: error 
+    Message : Failed to connect database: MongooseServerSelectionError: connect ECONNREFUSED ::1:27017
+    
+
+    Date : Mon Oct 23 202315:44:35 
+    Label: Error!
+    Lavel: error 
+    Message : Failed to connect database: MongooseServerSelectionError: connect ECONNREFUSED ::1:27017
+    
